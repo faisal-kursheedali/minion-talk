@@ -1,0 +1,55 @@
+body{
+    background-color:#fcde67;
+    color:#030e12;
+    text-align: center;
+    
+    
+}
+
+textarea{
+    width: 80%;
+    height: 10vh;
+    display: block;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1rem;
+
+}
+#output{
+    width: 80%;
+    height: 10vh;
+    padding: 1rem;
+    margin: auto;
+    border-radius: 0.5rem ;
+    color:black;
+    background-color: white;
+    font-size: 1rem;
+
+}
+#trans-id{
+    padding: 1rem;margin: 0.5rem; border-radius: 0.5rem;background-color:#f3ca20;
+}
+#navigation{
+    background-color:pink;
+    padding: 2rem;
+    border-bottom-left-radius: 1rem;
+    
+}
+#weight{
+    color: #097054;
+}
+#image{
+    max-width: 150px;
+    
+}
+.end{
+    padding: 2rem 0rem;
+    
+}
+#img{
+    background-color: pink;
+    margin: 2rem 0rem;
+    border-radius: 1rem;
+}
